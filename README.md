@@ -1,4 +1,4 @@
 home
 ====
 
-首页|newsky.github.io/home/
+[首页](newsky.github.io/home/)
